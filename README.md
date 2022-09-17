@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PritoM-Debnath
 - 👀 I’m interested in learning languages.
-- 🌱 I’m currently learning c++ and java
+- 🌱 I used c++, java, c#, python and assembly language
 - 📫 Knock me on debnathpritom@outlook.com
 
 <!---
