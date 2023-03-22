@@ -6,7 +6,7 @@
 
 - 👨‍💻 I'm now studying Computer Science & Engineering at **American International University-Bangladesh for my undergraduate degree.**
 
-- 📫 How to reach me **debnathpritom@outlook.com**
+- 📫 Feel free to mail **debnathpritom@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
