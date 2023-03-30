@@ -31,13 +31,4 @@
    </table>
 </p>
 
-<p align="center">
-   <table>
-      <tr>
-       <th>My GitHub Streak</th>
-     </tr>
-      <tr>
-       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=pritom-debnath&show_icons=true&locale=en&layout=compact&theme=dark" alt="pritom-debnath" /> </td>
-     </tr>
-   </table>
-</p>
+
