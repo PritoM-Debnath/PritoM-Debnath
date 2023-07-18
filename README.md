@@ -21,11 +21,9 @@
 <p align="center">
    <table>
       <tr>
-       <th>My GitHub Stats</th>
        <th>Language Contribution</th>
      </tr>
       <tr>
-       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=pritom-debnath&show_icons=true&theme=dark"> </td>
        <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritom-debnath&show_icons=true&locale=en&layout=compact&theme=dark" alt="pritom-debnath" /> </td>
      </tr>
    </table>
