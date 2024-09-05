@@ -1,8 +1,5 @@
----
-[![](https://visitcount.itsvg.in/api?id=PritoM-Debnath&icon=0&color=0)](https://visitcount.itsvg.in)
-
 # 💫 About Me:
-I'm currently working on Full Stack Development<br>I'm looking to collaborate on developing ReactJS, Django Framework<br>I'm currently learning Django Framework<br>Ask me about learning full stack development <br>
+* I'm currently working on Full Stack Development<br>* I'm looking to collaborate on developing ReactJS, Django Framework<br>* I'm currently learning Django Framework<br>* Ask me about learning full stack development and AI<br>
 
 
 ## 🌐 Socials:
