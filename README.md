@@ -1,5 +1,8 @@
 # 💫 About Me:
-* I'm currently working on Full Stack Development<br>* I'm looking to collaborate on developing ReactJS, Django Framework<br>* I'm currently learning Django Framework<br>* Ask me about learning full stack development and AI<br>
+* I'm currently working on Full Stack Development
+* I'm looking to collaborate on developing ReactJS, Django Framework
+* I'm currently learning Django Framework
+* Ask me about learning full stack development and AI<br>
 
 
 ## 🌐 Socials:
