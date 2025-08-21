@@ -3,6 +3,8 @@ Hi, I'm Pritom, Thanks for you time!!
 * I am an Automation Enthusist and a Researcher.
 * My expertise lies in Python as it has vast open-source resources like Langchain, LangGrpah, Tensorflow, numpy and many more.. 🤯
 
+* Mail for collaboration at debnathpritom@outlook.com
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pritom.9235) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pritomdebnath) 
