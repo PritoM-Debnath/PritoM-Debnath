@@ -1,8 +1,7 @@
 # 💫 About Me:
-* I'm currently working on Full Stack Development
-* I'm looking to collaborate on developing ReactJS, Django Framework
-* I'm currently learning Django Framework
-* Ask me about learning full stack development and AI<br>
+Hi, I'm Pritom, Thanks for you time!!
+* I am an Automation Enthusist and a Researcher.
+* My expertise lies in Python as it has vast open-source resources like Langchain, LangGrpah, Tensorflow, numpy and many more.. 🤯
 
 
 ## 🌐 Socials:
