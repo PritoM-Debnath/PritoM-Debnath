@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Pritom, Thanks for you time!!
+# 💫 Hi, I'm Pritom:
+Thanks for you time!!
 * I am an Automation Enthusist and a Researcher.
 * My expertise lies in Python as it has vast open-source resources like Langchain, LangGrpah, Tensorflow, numpy and many more.. 🤯
 
